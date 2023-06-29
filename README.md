@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Sheena! 👋
 
 - 💻 I'm a full stack software developer!

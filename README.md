@@ -1,18 +1,13 @@
 
 ### Hi there, I'm Sheena! 👋
 
-- 💻 I'm a software engineer!
-- 🌱 I’m currently learning new full stack tech
-- 💡 I am proficient in React-R 
-- ❤️ I am proud of my
-- ✍ You can find my portfolio site [here][portfolio]
-- :rocket: I’m looking to collaborate on new coding projects
-🔭 I’m currently working on 
-💬 Ask me about Electronics & Telecommunication Engineering! While I don't work in the field anymore, I still love everything I learned about it
-👯 I’m looking to collaborate 
-😄 Pronouns: She/Her
+- 💻 I'm a full stack software developer!
+- 💡 I am proficient in React-Redux and Javascript
+- 👯 I’m looking to collaborate on new projects
+- 💬 Ask me about Electronics Engineering! While I don't work in the field anymore, I still love everything I learned about it!
+- 😄 Pronouns: She/Her
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
-🎸 Fun Fact: I love to cook Indian cuisine and love to play board games with my family.
+- 🎸 Fun Fact: I love to cook Indian cuisine and love to play board games with my family.
 
 
 ## My Skills
@@ -20,14 +15,14 @@
 
 <br />
 
-## My Github Stats
+## Coding Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=coderaries12&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_rank=true&hide_title=true" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaries12&hide_progress=true&langs_count=6&theme=github_dark_dimmed&hide=php,scss,less,c,jupyter%20notebook" height="175">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=coderaries12&theme=transparent)](https://git.io/streak-stats)
 
-[linkedin] : https://www.linkedin.com/in/sheena1204/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderaries12&layout=compact&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/sheena1204/
 
 
 

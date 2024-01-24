@@ -12,7 +12,13 @@
 ## My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,express,nodejs,py,flask,html,css,vscode,postman,git,sqlite,matlab&perline=8&theme=light)](https://skills.thijs.gg)
 
-<br />
+
+## My Favorite Project Repos
+<a href="https://github.com/coderaries12/Tryglasses"><img src="https://img.shields.io/badge/Tryglasses-23aae2?style=for-the-badge&logoColor=white"></a>  
+<a href="https://github.com/coderaries12/Juz-bnb"><img src="https://img.shields.io/badge/Juz Bnb-C2410C?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/coderaries12/Guess-Game"><img src="https://img.shields.io/badge/Guess Game-0F766E?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/coderaries12/Shopsy"><img src="https://img.shields.io/badge/Shopsy-588dff?style=for-the-badge&logoColor=white"></a>
+
 
 ## Coding Stats
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=coderaries12 -->

@@ -10,7 +10,7 @@
 
 
 ## My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,express,nodejs,py,flask,html,css,tailwind,vscode,postgres,postman,git,sqlite,nextjs,mySQL,figma,vercel,matlab&perline=8&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,express,nodejs,py,flask,html,css,tailwind,vscode,postgres,postman,git,sqlite,nextjs,mysql,figma,vercel,matlab&perline=8&theme=light)](https://skills.thijs.gg)
 
 
 ## My Favorite Project Repos

@@ -3,6 +3,7 @@
 - 💻 I'm a full stack software developer!
 - 💡 I am proficient in React-Redux and Javascript
 - 👯 I’m looking to collaborate on new projects
+- 💬 Ask me about Electronics Engineering! While I don't work in the field anymore, I still love everything I learned about it!
 - 😄 Pronouns: She/Her
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 - 🎸 Fun Fact: I love to cook Indian cuisine and love to play board games with my family.

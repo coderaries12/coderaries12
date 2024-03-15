@@ -20,7 +20,8 @@
 
 
 ## I'm currently learning Java. Check out my progress
-<a href="https://github.com/coderaries12/RockPaperScissor-Game "><img src="https://img.shields.io/badge/RockPaperScissor Game-2000AD?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/coderaries12/RockPaperScissor-Game "><img src="https://img.shields.io/badge/Rock.Paper.Scissor Game-2000AD?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/coderaries12/Explore-Venus"><img src="https://img.shields.io/badge/Explore Venus-0F959E?style=for-the-badge&logoColor=white"></a>
 
 
 ## Coding Stats
